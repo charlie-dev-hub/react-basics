@@ -1,0 +1,42 @@
+.row{
+    border: 1px solid gray;
+    width: 100%;
+    height: 150px;
+    display: inline-flex;
+}
+
+.box{
+    height: 100%;
+    width: 20%;
+}
+
+.box-1{
+    background-color: red;
+}
+.box-2{
+    background-color:blue;
+}.box-3{
+    background-color:yellow;
+}.box-4{
+    background-color:greenyellow;
+}.box-5{
+    background-color: brown;
+}
+
+.row-2{
+    border: 1px solid gray;
+    width: 100%;
+    height: 150px;
+    display: inline-flex;
+}
+.box-6{
+    background-color: coral;
+}.box-7{
+    background-color: palevioletred;
+}.box-8{
+    background-color: powderblue;
+}.box-9{
+    background-color: purple;
+}.box-10{
+    background-color: black;
+}
